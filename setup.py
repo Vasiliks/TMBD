@@ -4,7 +4,7 @@ import setup_translate
 
 setup(name = 'enigma2-plugin-extensions-tmbd',
 		version='8.5.5',
-		author='Dorik1972',
+		author='Dima73, Dorik1972',
 		author_email='dima-73@inbox.lv',
 		package_dir = {'Extensions.TMBD': 'src'},
 		packages=['Extensions.TMBD'],
