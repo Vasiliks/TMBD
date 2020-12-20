@@ -48,7 +48,7 @@ from Screens.Standby import TryQuitMainloop
 from meta import MetaParser, getctime, fileSize
 import kinopoisk
 
-__version__ = "8.5.5"
+__version__ = "8.5.6"
 
 epg_furtherOptions = False
 if hasattr(EPGSelection, "furtherOptions"):
